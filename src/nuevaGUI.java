@@ -19,7 +19,7 @@ public class nuevaGUI extends JFrame {
 					nuevaGUI frame = new nuevaGUI();
 					frame.setVisible(true);
 				} catch (Exception e) {
-					e.printStackTrace();
+					e.printStackTrace();     
 				}
 			}
 		});
